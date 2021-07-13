@@ -23,7 +23,11 @@
 
 ◾ Create mechanism to generate text messages. typewrite() function of pyautogui helps to write the text and sleep function helps us specify the particular time interval   (in seconds) after which the next instruction has to be executed. datetime.datetime.now() function helps the user keep a track of when the message was sent.
 
-<a ><img src="https://i.ytimg.com/vi/UsNu7VdWHDs/maxresdefault.jpg" height="200"/></a>
+<a ><img src="https://i.ytimg.com/vi/UsNu7VdWHDs/maxresdefault.jpg" height="170"/></a>
+
+## Output:
+
+<a ><img src="https://github.com/Aditya-Bhate/Spambot-using-PyAutoGUI/blob/main/Output.png" height="200"/></a>
 
 ## Languages used:
 <code><img height="40" src="https://img.icons8.com/color/48/000000/python--v1.png"/></code>
